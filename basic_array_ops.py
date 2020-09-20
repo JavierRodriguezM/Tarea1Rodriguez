@@ -1,3 +1,4 @@
+# ERR7 (-5)
 # basic_ops
 # el parámetro de operación debe ser escrito
 # como un string para poder llamar la función.
